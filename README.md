@@ -3,8 +3,6 @@
 
 stepjump@naver.com
 
-010-6532-7312
-
 
 # 즐겨찾기
 https://stepjump.tistory.com/ 티스토리
