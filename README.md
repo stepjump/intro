@@ -14,6 +14,6 @@ https://stepjump.tistory.com/ 티스토리
 
 https://cafe.naver.com/stepjump.cafe 네이버카페
 
-
+https://stockinfo-o4ubhhwjex3cxshshbzgei.streamlit.app/ 
 
 #
