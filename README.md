@@ -16,4 +16,5 @@ https://cafe.naver.com/stepjump.cafe 네이버카페
 
 https://stockinfo-o4ubhhwjex3cxshshbzgei.streamlit.app/ 
 
+https://nh5l7m5qp2xl2ixmgzbfdc.streamlit.app/
 #
