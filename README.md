@@ -14,4 +14,3 @@ https://stepjump.tistory.com/ 티스토리
 
 https://cafe.naver.com/stepjump.cafe 네이버카페
 
-https://nh5l7m5qp2xl2ixmgzbfdc.streamlit.app/
